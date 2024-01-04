@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Benjamin Kapner</h1>
 <h3 align="left">Welcome to my GitHub :)</h3>
 
-- 🔭 I’m interested in **Machine Learning, Data Science, and Healthcare.**
+- 🔭 I’m interested in **Machine Learning, Data Science, Generative AI, and Healthcare.**
 
 - 🌱 I’m currently learning: **MSc in Data Science**
 
