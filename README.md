@@ -9,10 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "[//linkedin.com/in/benjamin-kapner-ba75a11b5/](https://www.linkedin.com/in/benjamin-kapner-ba75a11b5/)"
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/benjamin-kapner-ba75a11b5))
 
 <p align="left">
 </p>
