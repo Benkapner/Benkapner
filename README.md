@@ -12,7 +12,7 @@
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/benjamin-kapner-ba75a11b5/"
+    link = "[//linkedin.com/in/benjamin-kapner-ba75a11b5/](https://www.linkedin.com/in/benjamin-kapner-ba75a11b5/)"
 
 <p align="left">
 </p>
