@@ -8,6 +8,12 @@
 - 💬 Ask me about **Statistics and Data Analysis**
 
 <h3 align="left">Connect with me:</h3>
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/benjamin-kapner-ba75a11b5/"
+
 <p align="left">
 </p>
 
