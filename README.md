@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Benjamin Kapner</h1>
+<h1 align="left">Hi 👋, I'm Benjamin (Ben) Kapner</h1>
 <h3 align="left">Welcome to my GitHub :)</h3>
 
 - 🔭 I’m interested in **Machine Learning, Data Science, Deep Learning, Generative AI, and Healthcare.**
